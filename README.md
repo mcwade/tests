@@ -1,6 +1,6 @@
-# UI Challenge
+# Front End Challenge
 
-The following is a UI Challenge for Kargo.
+The following is a front end code challenge for Kargo.
 
 Retrieve data from an public API and display using a Material UI Data Table.  Please include the following items:
 
