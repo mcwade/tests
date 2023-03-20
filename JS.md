@@ -11,5 +11,6 @@ For the following tests you can use JSFiddle or another tool to execute.
   - Async function with await for each promise can be used to execute in sequence
 
 
-**3. Write a function to check if a string is a palindrome. Print result.**
+**3. Write a function to check if a string is a palindrome.**
+  - Print result, true/false.
 
