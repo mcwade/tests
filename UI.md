@@ -9,4 +9,5 @@ Retrieve data from a public API, display data using a Material UI data table.  P
 - Connect a search to the table
 - Table columns should be sortable, except for the action column.
 
-<img width="1459" alt="data-table-example" src="https://user-images.githubusercontent.com/1139508/226436421-2dafa548-d3a0-4767-9bbf-60813c6cb126.png">
+<img width="1029" alt="data-table-example" src="https://user-images.githubusercontent.com/1139508/226461222-7ddd21c0-905a-4e99-940e-ae1726bb5d27.png">
+
